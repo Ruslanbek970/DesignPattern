@@ -1,0 +1,7 @@
+module FinalyDesign {
+    requires javafx.controls;
+    requires javafx.fxml;
+    // если используете другие модули, добавьте их здесь:
+    // requires javafx.graphics; requires javafx.base;
+    exports edu.education;
+}
